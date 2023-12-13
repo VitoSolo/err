@@ -1,6 +1,6 @@
 # build and archive output
 dist/
-_archve/
+_archive/
 
 # generated types
 .astro/
